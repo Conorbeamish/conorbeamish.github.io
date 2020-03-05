@@ -126,6 +126,11 @@ h3 {
     color: #24d6ee; 
 }
 
+.icon-dark {
+    color: #f4f4f4;
+    margin: 1rem;
+}
+
 .project-img {
     object-fit: cover;
     width: 100%;
