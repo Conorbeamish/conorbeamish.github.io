@@ -135,6 +135,7 @@ h3 {
     object-fit: cover;
     width: 100%;
     margin: 1rem 0 1rem 0;
+  
 }
 
 .project-container {
@@ -201,9 +202,6 @@ h3 {
 }
 
 @media only screen and (min-width: 768px){
-    body {
-        font-size: 1.25rem;
-    }
     .project-container{
         flex-direction: row;
     }
